@@ -1,5 +1,5 @@
 {
-  "name": "@me/react-truncate-markup",
+  "name": "@wikyd/react-truncate-markup",
   "version": "2.0.8",
   "description": "React component for truncating JSX markup",
   "main": "lib/index.js",
