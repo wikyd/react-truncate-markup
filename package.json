@@ -1,5 +1,5 @@
 {
-  "name": "react-truncate-markup-eden",
+  "name": "@wikyd/react-truncate-markup",
   "version": "2.0.5",
   "description": "React component for truncating JSX markup",
   "main": "lib/index.js",
